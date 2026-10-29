@@ -1,0 +1,21 @@
+{
+  "version": "3.0.0",
+  "name": "TRIZNES LIVING WORLD",
+  "consumer": "PINK_NOIZE",
+  "canonical_source": "dank00-arch/TRIZNES:docs/core/TRIZNES_FIRMWARE_V3.json",
+  "updated_at": "2026-10-30",
+  "role": "Эмоциональный голос, музыка и творческая энергия живого мира TRIZNES.",
+  "soundtrack_policy": {
+    "generator_music_is_final": false,
+    "priority": ["трек PINK NOIZE, созданный для конкретной истории", "подходящий существующий трек PINK NOIZE", "явно утверждённый альтернативный soundtrack"],
+    "sync_to": ["смысл", "эмоциональная дуга", "ритм", "монтажные акценты"],
+    "preserve_original_audio_when_needed": true
+  },
+  "reality_policy": {
+    "real_faces": "NO_AI_SUBSTITUTION",
+    "real_places": "NO_INVENTED_SUBSTITUTION",
+    "archive": "ORIGINAL_NEVER_OVERWRITTEN",
+    "artistic_interpretation": "MARK_SEPARATELY_FROM_DOCUMENTARY_REALITY"
+  },
+  "visual_direction": "яркость, природа, море, солнце, любовь, индивидуальный свет персонажа; не тотальный cyberpunk и не неон ради неона"
+}
